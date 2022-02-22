@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another New-Years-gift for arbitrary judges, or, Some sober reflections on injustice</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25492</idno>
+            <idno type="STC">Wing A3271</idno>
+            <idno type="STC">ESTC R19348</idno>
+            <idno type="EEBO-CITATION">13055400</idno>
+            <idno type="OCLC">ocm 13055400</idno>
+            <idno type="VID">96995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another New-Years-gift for arbitrary judges, or, Some sober reflections on injustice</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judges --  England.</term>
+               <term>Judicial corruption --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96995:1"/>
+            <head>ANOTHER New-Years-Gift FOR <hi>Arbitrary Iudges:</hi> OR, Some ſober Reflections on Injuſtice.</head>
+            <p>THE laſt years <hi>New-years</hi> Gift to the Chief Juſtice <hi>Scroggs,</hi> was as it ſeems, but ill accepted by him, and though it might have been as a Looking-Glaſs, for him, to have ſeen the ill favour'd and ugly Face of a Corrupt <hi>Judg,</hi> and the odiouſneſs of <hi>Injuſtice,</hi> He laid not his Hand on his Heart, nor ſeriouſly conſidered the evil end it would bring him to, but ſtill conti<g ref="char:EOLhyphen"/>nuing in his iniquity, Roared, Ranted, and Bluſtered more like an <hi>Hector,</hi> than a <hi>Judg,</hi> and has ever ſince endeavoured all that in him lay, not to ex<g ref="char:EOLhyphen"/>ecute <hi>Juſtice</hi> and <hi>Judgment,</hi> according to <hi>Law</hi> and <hi>Truth,</hi> but arbitrarily and illegally to abuſe, impriſon, and undoe, all ſuch as he thought any ways oppoſed his Violence, or cry'd out of his Proceedings. He ſurely never remembered what <hi>Moſes</hi> ſay'd to the <hi>Judges</hi> of his People, Deut, 16.19. <hi>Thou ſhalt not wreſt Judgment, thou ſhalt not reſpect Perſons, neither ſhalt thou take a Gift, for a Gift doth blind the eyes of the Wiſe, and pervert the words of the Righteous.</hi> The Acquit<g ref="char:EOLhyphen"/>tal of Sir <hi>George Wakeman</hi> will never be forgot, and 10000 <hi>l.</hi> will be ſtill in the Mouths of the People. They have many Eyes, and are not eaſily blinded or deluded. The good <hi>Jehoſaphat</hi> King of <hi>Judah</hi> gave in Charge to his Judges, 2 Chron. 19.6. <hi>Take heed what you do, for you Judg not for Man but for the Lord.</hi> To what end at laſt will Injuſtice, Oppreſſion, and Bribery lead? even to Deſtruction, as you may ſee in <hi>Samuels</hi> Sons, who turned after Lucre, took Bribes, and perverted Judgment, 1 <hi>Sam.</hi> 8.3. You know what became of them, they were de<g ref="char:EOLhyphen"/>ſtroyed. And <hi>Job</hi> ſays <hi>Chap.</hi> 15. <hi>Verſ.</hi> 34. <hi>Fire ſhall conſume the Tabernacles of Bribery.</hi> They ſhall not long enjoy what is unrighteouſly got. It will not be amiſs again to inſert in this our <hi>New-years</hi> Gift, the Oath of the <hi>Judges,</hi> 20th <hi>Edw. 3d.</hi> for they cannot too often behold their Duties, nor be remembred of it.</p>
+            <p>
+               <q>Ye ſhall Swear, that well and truly ye ſhall ſerve our Soveraign Lord the King, and his People, in the Office of a Juſtice, <hi>&amp;c.</hi> That ye do equal Law, and Execution of Right to all the Kings Subjects, Rich and Poor, without having regard to any perſon; And that ye ſhall not take by you or by any other, privily, nor in part, any Gift or Reward, in Gold or Silver, nor any other thing, which may turn to Profit <hi>&amp;c.</hi> of any Man, that hath Plea or Proceſs before, you; nor after, for the ſame Cauſe; And that ye take no Fees, nor Robe of any Per<g ref="char:EOLhyphen"/>ſon, great or ſmall, ſo long as ye be Juſtices, but of the King himſelf, <hi>&amp;c.</hi> And that ye ſhall not delay any Perſon of common Right, for the Letters of the King, or of any other Perſon, nor for any Cauſe, <hi>&amp;c.</hi>
+               </q> And to proceed and do the Law, notwithſtanding theſe Letters, <hi>&amp;c.</hi>
+            </p>
+            <p>This is a clear Mirrour for the <hi>Judges</hi> of the Land to look into, and had they remembred the true tenour of this Oath, they would not Act ſo Illegally, and Arbitrarily, as they have done. Our <hi>Laws</hi> are Good, Juſt, and Righteous; but if our <hi>Judges</hi> are defective, and not upright and Conſciencious, what ſignifie good Laws? Let them bear in mind the <hi>Parliament</hi> holden the <hi>11th</hi> year of <hi>Richard</hi> the 2d, and the Execution they did on <hi>Triſilian</hi> Chief Juſtice, who was hanged at <hi>Tyburn,</hi> and all the reſt of the <hi>Judges</hi> condemned to dye, but by the Queens In<g ref="char:EOLhyphen"/>terceſſion Baniſh'd the Land, and their Goods Confiſcated. <hi>Thorp</hi> alſo Lord <hi>Chief Juſtice</hi> was Sentenc'd to Death, for taking Bribes, contrary to his Oath. And in the <hi>17th</hi> of King <hi>Edward</hi> the 1ſt, ſo great was the Corruption of the <hi>Judges,</hi> that they were all Sentenced and Fined by the King. 'Tis for Injuſtice that a Land mourns, and nothing more endears a King to his People, than to Conſtitute upright <hi>Judges,</hi> that <hi>Juſtice may run down as a ſtream.</hi> But of late we
+<pb n="2" facs="tcp:96995:2"/>have ſeen, as the Prophet <hi>Zephaniah</hi> ſays, our <hi>Judges like evening Wolves, who gnaw not the Bones till the Morrow,</hi> Zeph. 3.3. They artificially, and by delays ſeek to torment thoſe they have a mind to oppreſs. It was in the time of <hi>Henry</hi> the <hi>3d,</hi> propoſed that the Lord Chief Juſtice, and other Chief Officers of the Kingdom, might be choſen by the <hi>Parliament.</hi> But 'tis impoſ<g ref="char:EOLhyphen"/>ſible to dive into the Hearts of Men, it is Time and Action that ſhews them to the World, for the Lord <hi>Chief Juſtice S.</hi> ſeem'd one thing in the Trial of <hi>Coleman,</hi> and another thing in the Tryal of <hi>Wakeman.</hi> With what care did he acquit the one? and with what Zeal did he Condemn the other? <hi>Auri ſacra fumes.</hi> O ſacred hunger of Gold. How honeſtly and like a Proteſtant he acted, and how ſuddenly alter'd and convinc'd! and appeared to the People, <hi>Monſtrum horrendum ingens cuilumen ademptum.</hi> He loſt the light of his Reaſon and Under<g ref="char:EOLhyphen"/>ſtanding, ſubmitting to Covetouſneſs, the root of all evil. <hi>Solomon</hi> ſays, <hi>To do Juſtice and Judgment is more acceptable to the Lord than Sacrifice,</hi> Prov. 21.3. It is better to obey God than Man.</p>
+            <p>Who would ever have thought that under the Reign of ſo good and gracious a Prince, we ſhould have ſeen no leſs than four Judges at once Impeached by the Commons, of Arbitrary, Violent, and illegal Proceedings! To what paſs ſhould we have been brought by theſe evil Miniſters, had not his Majeſty graciouſly at laſt yielded to the importunate deſires of his Peo<g ref="char:EOLhyphen"/>ple, in calling this bleſſed <hi>Parliament?</hi> who come with healing under their Wings. What could you think with your ſelves, O you unjuſt <hi>Judges?</hi> could you imagine that ſo palpably, an Arbitrary, and unprecedented an Act, as the diſcharging the Grand Jury of <hi>Middleſex,</hi> in the midſt of their buſineſs, and alſo with ill words, becauſe you would not receive their <hi>Petition,</hi> which was not agreeable to your Humour, ſhould not be queſtioned when ever we had the happineſs of a Parliament? Did not you believe in your own Conſciences, that you ſhould once be called to an Account for your Arbitrary and illegal Rule of Court, againſt the Writ<g ref="char:EOLhyphen"/>ing, Printing, and Publiſhing a Book, put forth only in Vindication of the <hi>Proteſtant Religion?</hi> whilſt ſo many Papiſtical and Jeſuitical Phamphlets were every day publiſhed, to the ſcandal of our Religion, without being queſtion'd by you! Did you believe ſo vainly, as that you were not taken notice of, in your partial Fines, favouring the Popiſh Party, Delinquents, and cruſhing ſeverely, or rather grinding to Powder, the Proteſtant Offenders that came before you? and all this with a ſquinting eye, in hopes, of the falſe proſpect you had, of the favour of a Popiſh Succeſſor? from which God defend this Kingdom. Did you alſo ſuppoſe, that all the Illegal Oppreſſions, of the ſeveral Bailable perſons, you committed, would not be I oli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d into? and that you, who ſhould be the diſpenſers of <hi>Juſtice, Law,</hi> and <hi>Equity,</hi> ſhould act ſo Arbitrarily, and againſt all Right and Law, and commit ſuch high Breaches of the <hi>Li<g ref="char:EOLhyphen"/>berty</hi> of the <hi>Subject?</hi> Who could ever have believed that we ſhould have ſeen and heard a Judge openly upon the Bench, Condemning the firſt main Reformers of the <hi>Romiſh</hi> Religion? and the <hi>Authors</hi> of the Reformation? and with the ſame breath, to ſpeak againſt a <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> placing all Power in the King only? ſaying that he is the only Repreſentative, en<g ref="char:EOLhyphen"/>deavouring at once to derogate from our Religion, and the Rights and Priviledges of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and to raiſe a diſcord between his Majeſty and his Subjects? who would have imagined, they ſhould have heard a Judg openly Inveighing againſt the <hi>Subjects Petitioning</hi> their King for a <hi>Parliament</hi> to redreſs their Grievances? Who could have thought to have heard a Judg pronounce Sentence of Death againſt a Traitor, and yet ſhortly after to ſay publickly, he be<g ref="char:EOLhyphen"/>lieved him Innocent? And who would laſtly believe, that a wiſe <hi>Judg</hi> ſhould give under his Hand, Illegal, and Arbitrary Warrants, to bring himſelf into danger? But alas! we did not think of a Parliament. It was the complaint of the Prophet <hi>Eſay</hi> Chap 59.14. <hi>That Judg<g ref="char:EOLhyphen"/>ment were turned backward, and Juſtice ſtood afar off; Truth was fallen in the Streets, and Equity could not enter. God ſaw it and was diſpleaſed, that there was no Judgment.</hi> And not long ſince, it might be ſaid to be our Cafe, but God be thanked for his Gracious Mercy, and may his Ma<g ref="char:EOLhyphen"/>jeſty be humbly thanked for his kindneſs and commiſeration to his People in calling this Par<g ref="char:EOLhyphen"/>liament to do Juſtice on Offenders, and to ſecure the Rights and Priviledges of the Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>And now I ſhall conclude, deſiring Juſt and upright <hi>Judges,</hi> who ſit in the Seat of <hi>Juſtice,</hi> and who are like <hi>God's</hi> in a Nation, ſhowring down Bleſſings on the People, like the dew of Heaven, to take this <hi>New-Years</hi>-Gift in good part, and to take warning by the harms, and puniſhment of others, that they be not perverted, but that they may act according to an up<g ref="char:EOLhyphen"/>right Conſcience, and by the Law of God and the Kingdom, and firmly believe, that no<g ref="char:EOLhyphen"/>thing is more odious to God and Man, than <hi>Corruption, Bribery, Injuſtice,</hi> and <hi>Oppreſſion,</hi> in a <hi>Judge;</hi> whoſe fall no Man will pitty or lament. Set before your eyes continually the examples of evil and unjuſt <hi>Judges,</hi> both in ſacred and prophane Hiſtory, and you will ſee their end to be miſerable and deteſted, full of ſhame and confuſion, from which, may God keep henceforth all our grave, Learned, Reverend, and Pious Juſticers. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
